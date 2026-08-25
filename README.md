@@ -1,8 +1,9 @@
 # ISAC SHD Venu 2 Watch Face
 
 Inspired by "The Division™" Game from Ubisoft
-Modified the watchface for the Venu3 only.
 
+#### Changes by me
+Modified the watchface for the Venu3 only.
 Increased time-font by about 10%
 
 Left side: 
