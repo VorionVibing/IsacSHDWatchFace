@@ -1,6 +1,23 @@
 # ISAC SHD Venu 2 Watch Face
 
 Inspired by "The Division™" Game from Ubisoft
+Modified the watchface for the Venu3 only.
+
+Increased time-font by about 10%
+
+Left side: 
+Vitality (aka body battery) VIT
+Stress level STRS
+
+Right side:
+Heartrate HR
+Calories Consumption CAL
+
+Bottom
+left: temperature, right: chance of rain
+underneath: date
+
+Rest is all original and untouched.
 
 # General Idea
 The Goal is to Design a Watchface that copys the ISAC Assistant distributed to all Agents
